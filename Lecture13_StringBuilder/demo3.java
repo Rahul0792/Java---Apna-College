@@ -5,6 +5,7 @@ public class demo3 {
         System.out.println(rk.insert(0, 'M'));
 
         // Another way
-        
+        rk.insert(1, 'H');
+        System.out.println(rk);
     }
 }
