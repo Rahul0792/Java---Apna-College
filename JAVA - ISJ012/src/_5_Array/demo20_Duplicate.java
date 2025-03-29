@@ -1,6 +1,6 @@
 package _5_Array;
 
-public class dem020 {
+public class demo20_Duplicate{
     public static void main(String[] args) {
         int[] array = {10, 20, 30, 40, 50, 60, 70, 80, 90, 9, 20};
         //way 1
