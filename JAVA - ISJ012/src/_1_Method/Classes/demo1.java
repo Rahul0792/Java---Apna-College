@@ -1,4 +1,4 @@
-package _1_Method;
+package _1_Method.Classes;
 
 public class demo1 {
     public static void main(String[] args) {
