@@ -1,4 +1,4 @@
-package _5_Array;
+package _10_Array;
 
 public class demo7_2D_Array {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package _5_Array;
+package _10_Array;
 //Enhance Method
 public class demo1_EnhanceMethod {
     public static void main(String[] args) {

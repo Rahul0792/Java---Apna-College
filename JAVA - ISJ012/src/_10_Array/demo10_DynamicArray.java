@@ -1,4 +1,4 @@
-package _5_Array;
+package _10_Array;
 
 import java.util.Arrays;
 

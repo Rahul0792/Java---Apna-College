@@ -1,4 +1,4 @@
-package _5_Array;
+package _10_Array;
 
 public class demo4_LinearSearch {
     public static void main(String[] args) {

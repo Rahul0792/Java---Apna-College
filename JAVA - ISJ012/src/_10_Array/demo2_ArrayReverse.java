@@ -1,4 +1,4 @@
-package _5_Array;
+package _10_Array;
 
 public class demo2_ArrayReverse {
     public static void main(String[] args) {

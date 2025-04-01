@@ -1,6 +1,4 @@
-package _5_Array;
-
-import static java.lang.Integer.MAX_VALUE;
+package _10_Array;
 
 public class demo5_MaxElementInArray {
     public static void main(String[] args) {
